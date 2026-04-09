@@ -1,6 +1,4 @@
-# bike-demand-timeseries
-Predict Bike Sharing Demand with Weather Time Series
-# Bike Demand Time Series Project
+# Bike Demand with Weather Time Series Project
 
 This project predicts bike sharing demand using time series modeling.
 
