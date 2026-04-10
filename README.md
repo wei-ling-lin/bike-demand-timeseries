@@ -12,7 +12,6 @@ Kaggle Bike Sharing Demand dataset
 Features include:
 
 * datetime
-
 * hourly demand
 * temporal patterns
 
@@ -20,12 +19,12 @@ Features include:
 
 Key features used:
 
-Hour of day
-Day of week
-Month
-Weekend indicator
-Lag features (1h, 24h, 168h)
-Rolling mean demand
+* Hour of day
+* Day of week
+* Month
+* Weekend indicator
+* Lag features (1h, 24h, 168h)
+* Rolling mean demand
 
 These features capture temporal dependencies in the demand signal.
 
@@ -33,9 +32,9 @@ These features capture temporal dependencies in the demand signal.
 
 The following models were trained:
 
-Random Forest
-XGBoost
-LightGBM
+* Random Forest
+* XGBoost
+* LightGBM
 
 Final predictions use model comparison and ensemble methods.
 
@@ -43,7 +42,7 @@ Final predictions use model comparison and ensemble methods.
 
 Metrics used:
 
-MAE (Mean Absolute Error)
+* MAE (Mean Absolute Error)
 
 Time-based train/test split was applied to prevent data leakage.
 
@@ -56,9 +55,14 @@ Users can adjust time features and view predicted bike demand.
 ## Tech Stack
 
 Python
+
 Pandas
+
 Scikit-learn
+
 XGBoost
+
 LightGBM
+
 Streamlit
 
