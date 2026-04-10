@@ -13,9 +13,8 @@ Features include:
 
 * datetime
 
-hourly demand
-
-temporal patterns
+* hourly demand
+* temporal patterns
 
 ## Feature Engineering
 
