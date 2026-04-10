@@ -11,7 +11,7 @@ Kaggle Bike Sharing Demand dataset
 
 Features include:
 
-datetime
+* datetime
 
 hourly demand
 
