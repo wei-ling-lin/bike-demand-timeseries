@@ -12,8 +12,11 @@ Kaggle Bike Sharing Demand dataset
 Features include:
 
 datetime
+
 hourly demand
+
 temporal patterns
+
 ## Feature Engineering
 
 Key features used:
